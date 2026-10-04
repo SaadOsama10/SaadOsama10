@@ -110,12 +110,6 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📈 <b>Stock Management System</b></h3>
-      <p>Java Swing app for portfolio tracking, buy/sell operations and balance updates</p>
-      <img src="https://img.shields.io/badge/Java-1a1b27?style=flat-square&logo=openjdk&logoColor=7aa2f7" alt="Java" />
-      <img src="https://img.shields.io/badge/Swing-1a1b27?style=flat-square" alt="Swing" />
-    </td>
-    <td width="50%" valign="top">
       <h3>🗺️ <a href="https://github.com/SaadOsama10/treasure-hunt-game"><b>Treasure Hunt Adventure Game</b></a></h3>
       <p>2-level dice-roll treasure board game built on custom linked lists, with a binary-search-tree scoreboard</p>
       <img src="https://img.shields.io/badge/Java-1a1b27?style=flat-square&logo=openjdk&logoColor=7aa2f7" alt="Java" />
@@ -123,8 +117,6 @@
       <img src="https://img.shields.io/badge/Data%20Structures-1a1b27?style=flat-square" alt="Data Structures" />
       <br/><br/><a href="https://github.com/SaadOsama10/treasure-hunt-game"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>⚔️ <a href="https://github.com/SaadOsama10/bokemon-battle-game"><b>Bokemon — Turn-Based Battle Game</b></a></h3>
       <p>Terminal Pokémon-style battle game in C: two-player, six-Pokémon teams, type-effectiveness damage, data loaded from 1,000+ Pokémon and 486 moves</p>
@@ -132,7 +124,9 @@
       <img src="https://img.shields.io/badge/CLI-1a1b27?style=flat-square" alt="CLI" />
       <br/><br/><a href="https://github.com/SaadOsama10/bokemon-battle-game"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
       <h3>🏛️ <a href="https://github.com/SaadOsama10/municipal-services-tracking"><b>Municipal Services Tracking System</b></a></h3>
       <p>Desktop app for citizens and municipal staff: utility subscriptions, billing, service requests, complaints and suggestions</p>
       <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=7aa2f7" alt="Python" />
