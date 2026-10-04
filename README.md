@@ -127,13 +127,22 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center" valign="top">
+    <td width="50%" valign="top">
       <h3>🏛️ <a href="https://github.com/SaadOsama10/municipal-services-tracking"><b>Municipal Services Tracking System</b></a></h3>
       <p>Desktop app for citizens and municipal staff: utility subscriptions, billing, service requests, complaints and suggestions</p>
       <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=7aa2f7" alt="Python" />
       <img src="https://img.shields.io/badge/PyQt5-1a1b27?style=flat-square&logo=qt&logoColor=7aa2f7" alt="PyQt5" />
       <img src="https://img.shields.io/badge/SQLite-1a1b27?style=flat-square&logo=sqlite&logoColor=7aa2f7" alt="SQLite" />
       <br/><br/><a href="https://github.com/SaadOsama10/municipal-services-tracking"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤿 <a href="https://github.com/SaadOsama10/kmakimo-treasure-dive"><b>KmaKimo — Treasure Dive</b></a></h3>
+      <p>Arabic (RTL) underwater arcade game: manage oxygen, catch fish, dodge sea monsters, shop for upgrades and race a friend online with room codes — <a href="https://saadosama10.github.io/kmakimo-treasure-dive/">play it in the browser</a></p>
+      <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=flat-square&logo=javascript&logoColor=7aa2f7" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/HTML5%20Canvas-1a1b27?style=flat-square&logo=html5&logoColor=7aa2f7" alt="HTML5 Canvas" />
+      <img src="https://img.shields.io/badge/Firebase-1a1b27?style=flat-square&logo=firebase&logoColor=7aa2f7" alt="Firebase" />
+      <img src="https://img.shields.io/badge/Web%20Audio-1a1b27?style=flat-square" alt="Web Audio" />
+      <br/><br/><a href="https://github.com/SaadOsama10/kmakimo-treasure-dive"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
     </td>
   </tr>
 </table>
