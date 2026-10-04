@@ -80,11 +80,12 @@
       <br/><br/><a href="https://github.com/SaadOsama10/news-bias-detection"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>📱 <b>Phone Use State Detector</b></h3>
-      <p>Real-time GUI app that detects and classifies phone usage states from live input</p>
+      <h3>📱 <a href="https://github.com/SaadOsama10/phone-usage-stats"><b>Phone Usage Statistics Dashboard</b></a></h3>
+      <p>PyQt5 dashboard for descriptive statistics, confidence intervals, z-tests and IQR outlier detection on a 700-user phone-usage dataset</p>
       <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=7aa2f7" alt="Python" />
       <img src="https://img.shields.io/badge/PyQt5-1a1b27?style=flat-square&logo=qt&logoColor=7aa2f7" alt="PyQt5" />
-      <img src="https://img.shields.io/badge/Computer%20Vision-1a1b27?style=flat-square" alt="Computer Vision" />
+      <img src="https://img.shields.io/badge/Statistics-1a1b27?style=flat-square" alt="Statistics" />
+      <br/><br/><a href="https://github.com/SaadOsama10/phone-usage-stats"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
     </td>
   </tr>
   <tr>
