@@ -156,6 +156,7 @@
       <img src="https://img.shields.io/badge/Firebase-1a1b27?style=flat-square&logo=firebase&logoColor=7aa2f7" alt="Firebase" />
       <img src="https://img.shields.io/badge/Web%20Audio-1a1b27?style=flat-square" alt="Web Audio" />
       <br/><br/><a href="https://github.com/SaadOsama10/kmakimo-treasure-dive"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
+      <a href="https://saadosama10.github.io/kmakimo-treasure-dive/"><img src="https://img.shields.io/badge/Live_Demo-bb9af7?style=flat-square&logo=html5&logoColor=1a1b27" alt="Live Demo" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>📰 <a href="https://github.com/SaadOsama10/mem-publisher"><b>MEM Publisher</b></a></h3>
