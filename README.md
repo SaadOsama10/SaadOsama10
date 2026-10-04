@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/SaadOsama10">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=4th-year+Software+Engineering+Student+%40+FSMVU;Building+Multi-Agent+AI+Systems;Automation+%C2%B7+Full-Stack+%C2%B7+Cloud;Java+%C2%B7+Python+%C2%B7+AWS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Software+Engineering+%40+FSMVU+%C2%B7+Istanbul;Shipping+a+live+e-commerce+store;AI+publishing+pipelines+for+12+sites;Building+ELENCHUS%3A+Socratic+AI+code+review" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,29 +20,66 @@
 ## 👨‍💻 About Me
 
 - 🎓 4th-year **Software Engineering** student at **Fatih Sultan Mehmet Vakıf University**, Istanbul
-- 🛠️ I build full-stack apps and automation pipelines — from networked games to AI-powered content systems
-- ⚙️ Strong in **Java** (OOP, design patterns, networking), **Python** (automation, Selenium, ReportLab), **MySQL** and **AWS EC2**
-- 🔭 Currently building **ELENCHUS** — a multi-agent Socratic AI code review platform for programming education that adapts to each student's level
+- 🛠️ I build **full-stack web apps, automation and AI pipelines, ML experiments, desktop apps and games**
+- 🚀 Shipped: **[HATTAH](https://github.com/SaadOsama10/hattah-store)**, a live trilingual (AR/EN/TR) e-commerce store for a real Istanbul business. **[MEM Publisher](https://github.com/SaadOsama10/mem-publisher)**, an AI news-publishing pipeline running in production for 12 WordPress sites. **[KmaKimo](https://github.com/SaadOsama10/kmakimo-treasure-dive)**, a real-time multiplayer browser game
+- 🔭 Now building **ELENCHUS**, my graduation project: a multi-agent Socratic AI code-review platform for programming education
 - 🌍 Languages: Arabic · English · Turkish
+
+---
+
+## ⭐ What I Bring
+
+| | |
+|---|---|
+| 🛍️ **Production full-stack** | HATTAH runs on Next.js 15 + Supabase + Vercel. RLS is on every table, writes are server-only, admin routes are checked in middleware and again in each Server Action, and login is rate-limited to 5 failures per IP per 15 minutes. |
+| 🤖 **AI automation in production** | MEM Publisher turns RSS into reviewed Arabic articles with GPT-4o-mini, then publishes through Selenium (Yoast / Rank Math, Classic / Gutenberg) from a Telegram bot on a DigitalOcean VPS. |
+| 📊 **ML with measured results** | The news-bias classifier reaches **97.12%** accuracy (ROC-AUC 0.995) with a TF-IDF Linear SVM on 5,000 Guardian articles. A 1D CNN reaches 0.94. |
+| 🧪 **QA leadership** | Test Manager for an **88-case** campaign on a Spring Boot + React system: 58 Selenium-automated functional tests, JMeter load tests and OWASP ZAP. 93.2% pass rate, 4 defects logged. |
+| 🔐 **Security fixes** | In two course projects I hardened, I replaced string-built SQL with parameterized queries and added PBKDF2-HMAC-SHA256 hashing (600k iterations). |
+| 📐 **Fundamentals** | Student's t distribution implemented by hand (no NumPy or SciPy), checked against Python's `statistics` module in 137/137 checks. TCP backgammon with a multithreaded server on AWS EC2. |
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center"><sub><b>Languages</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=java,python&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,py,c,js,ts,html,css&theme=dark" alt="java,py,c,js,ts,html,css" />
+</p>
+
+<p align="center"><sub><b>Frontend</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="react,nextjs,tailwind" />
+  <br/>
+  <img src="https://img.shields.io/badge/Framer_Motion-1a1b27?style=flat-square" alt="Framer Motion" /> <img src="https://img.shields.io/badge/next--intl-1a1b27?style=flat-square" alt="next-intl" /> <img src="https://img.shields.io/badge/PyQt5-1a1b27?style=flat-square&logo=qt&logoColor=7aa2f7" alt="PyQt5" /> <img src="https://img.shields.io/badge/Java_Swing-1a1b27?style=flat-square" alt="Java Swing" />
 </p>
 
 <p align="center"><sub><b>Backend &amp; Data</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,selenium,wordpress&theme=dark" alt="Backend and Data" />
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,sqlite,firebase,wordpress&theme=dark" alt="supabase,postgres,mysql,sqlite,firebase,wordpress" />
+  <br/>
+  <img src="https://img.shields.io/badge/Telegram_Bot-1a1b27?style=flat-square&logo=telegram&logoColor=7aa2f7" alt="Telegram Bot" /> <img src="https://img.shields.io/badge/TCP_Sockets-1a1b27?style=flat-square" alt="TCP Sockets" />
+</p>
+
+<p align="center"><sub><b>AI &amp; ML</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" alt="tensorflow,sklearn" />
+  <br/>
+  <img src="https://img.shields.io/badge/OpenAI_GPT--4o--mini-1a1b27?style=flat-square" alt="OpenAI GPT-4o-mini" /> <img src="https://img.shields.io/badge/Keras-1a1b27?style=flat-square&logo=keras&logoColor=7aa2f7" alt="Keras" /> <img src="https://img.shields.io/badge/pandas-1a1b27?style=flat-square&logo=pandas&logoColor=7aa2f7" alt="pandas" /> <img src="https://img.shields.io/badge/pymoo_%28NSGA--II_%2F_SPEA2%29-1a1b27?style=flat-square" alt="pymoo (NSGA-II / SPEA2)" />
+</p>
+
+<p align="center"><sub><b>Testing &amp; QA</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=selenium&theme=dark" alt="selenium" />
+  <br/>
+  <img src="https://img.shields.io/badge/Apache_JMeter-1a1b27?style=flat-square&logo=apachejmeter&logoColor=7aa2f7" alt="Apache JMeter" /> <img src="https://img.shields.io/badge/OWASP_ZAP-1a1b27?style=flat-square" alt="OWASP ZAP" /> <img src="https://img.shields.io/badge/Playwright-1a1b27?style=flat-square" alt="Playwright" />
 </p>
 
 <p align="center"><sub><b>Cloud &amp; DevOps</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux&theme=dark" alt="Cloud and DevOps" />
+  <img src="https://skillicons.dev/icons?i=aws,vercel,linux&theme=dark" alt="aws,vercel,linux" />
+  <br/>
+  <img src="https://img.shields.io/badge/DigitalOcean-1a1b27?style=flat-square&logo=digitalocean&logoColor=7aa2f7" alt="DigitalOcean" />
 </p>
 
 <p align="center"><sub><b>Tools</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,idea&theme=dark" alt="git,github,idea" />
+  <br/>
+  <img src="https://img.shields.io/badge/NetBeans-1a1b27?style=flat-square&logo=apachenetbeanside&logoColor=7aa2f7" alt="NetBeans" />
 </p>
 
 ---
