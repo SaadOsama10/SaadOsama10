@@ -81,7 +81,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>📱 <a href="https://github.com/SaadOsama10/phone-usage-stats"><b>Phone Usage Statistics Dashboard</b></a></h3>
-      <p>PyQt5 dashboard for descriptive statistics, confidence intervals, z-tests and IQR outlier detection on a 700-user phone-usage dataset</p>
+      <p>PyQt5 dashboard for descriptive statistics, confidence intervals, t/z tests and IQR outlier detection on any selectable column of a 700-user phone-usage dataset</p>
       <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=7aa2f7" alt="Python" />
       <img src="https://img.shields.io/badge/PyQt5-1a1b27?style=flat-square&logo=qt&logoColor=7aa2f7" alt="PyQt5" />
       <img src="https://img.shields.io/badge/Statistics-1a1b27?style=flat-square" alt="Statistics" />
