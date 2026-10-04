@@ -49,9 +49,90 @@
 
 ## 🚀 Featured Projects
 
-<!-- PROJECTS: to be added later -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎲 <a href="https://github.com/SaadOsama10/backgammon-network-project"><b>Multiplayer Backgammon Game</b></a></h3>
+      <p>Full GUI backgammon with client–server TCP networking, deployed on AWS</p>
+      <img src="https://img.shields.io/badge/Java-1a1b27?style=flat-square&logo=openjdk&logoColor=7aa2f7" alt="Java" />
+      <img src="https://img.shields.io/badge/AWS-1a1b27?style=flat-square" alt="AWS" />
+      <img src="https://img.shields.io/badge/TCP%20Networking-1a1b27?style=flat-square" alt="TCP Networking" />
+      <img src="https://img.shields.io/badge/NetBeans-1a1b27?style=flat-square" alt="NetBeans" />
+      <br/><br/><a href="https://github.com/SaadOsama10/backgammon-network-project"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🥗 <a href="https://github.com/SaadOsama10/diet-optimization"><b>Multi-Objective Diet Optimization (MODP)</b></a></h3>
+      <p>Recommends daily menus from 405 food items, modelled as MOMKP and solved with NSGA-II to produce a Pareto front of optimal menus</p>
+      <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=7aa2f7" alt="Python" />
+      <img src="https://img.shields.io/badge/NSGA--II-1a1b27?style=flat-square" alt="NSGA-II" />
+      <img src="https://img.shields.io/badge/pymoo-1a1b27?style=flat-square" alt="pymoo" />
+      <img src="https://img.shields.io/badge/MySQL-1a1b27?style=flat-square&logo=mysql&logoColor=7aa2f7" alt="MySQL" />
+      <br/><br/><a href="https://github.com/SaadOsama10/diet-optimization"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📰 <b>Bias Detection in News Articles</b></h3>
+      <p>ML pipeline detecting political/ideological bias in news text using NLP feature extraction</p>
+      <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=7aa2f7" alt="Python" />
+      <img src="https://img.shields.io/badge/Machine%20Learning-1a1b27?style=flat-square" alt="Machine Learning" />
+      <img src="https://img.shields.io/badge/NLP-1a1b27?style=flat-square" alt="NLP" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 <b>Phone Use State Detector</b></h3>
+      <p>Real-time GUI app that detects and classifies phone usage states from live input</p>
+      <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=7aa2f7" alt="Python" />
+      <img src="https://img.shields.io/badge/PyQt5-1a1b27?style=flat-square&logo=qt&logoColor=7aa2f7" alt="PyQt5" />
+      <img src="https://img.shields.io/badge/Computer%20Vision-1a1b27?style=flat-square" alt="Computer Vision" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏥 <b>Smart Hospital — SW Verification &amp; Testing</b></h3>
+      <p>Systematic verification &amp; testing of a smart hospital web system: unit, integration and system tests</p>
+      <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=7aa2f7" alt="Python" />
+      <img src="https://img.shields.io/badge/QA-1a1b27?style=flat-square" alt="QA" />
+      <img src="https://img.shields.io/badge/Testing-1a1b27?style=flat-square" alt="Testing" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 <b>OBS University Portal</b></h3>
+      <p>Student portal handling registration, course management and grade tracking</p>
+      <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=7aa2f7" alt="Python" />
+      <img src="https://img.shields.io/badge/Web%20Dev-1a1b27?style=flat-square" alt="Web Dev" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 <b>Stock Management System</b></h3>
+      <p>Java Swing app for portfolio tracking, buy/sell operations and balance updates</p>
+      <img src="https://img.shields.io/badge/Java-1a1b27?style=flat-square&logo=openjdk&logoColor=7aa2f7" alt="Java" />
+      <img src="https://img.shields.io/badge/Swing-1a1b27?style=flat-square" alt="Swing" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🗺️ <b>Treasure Hunt Adventure Game</b></h3>
+      <p>Interactive 2D adventure game with map-based navigation and puzzle mechanics</p>
+      <img src="https://img.shields.io/badge/Java-1a1b27?style=flat-square&logo=openjdk&logoColor=7aa2f7" alt="Java" />
+      <img src="https://img.shields.io/badge/OOP-1a1b27?style=flat-square" alt="OOP" />
+      <img src="https://img.shields.io/badge/GUI-1a1b27?style=flat-square" alt="GUI" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚔️ <b>Bokemon — Turn-Based Battle Game</b></h3>
+      <p>Pokémon-inspired battle game built with full OOP design patterns</p>
+      <img src="https://img.shields.io/badge/C%2B%2B-1a1b27?style=flat-square&logo=cplusplus&logoColor=7aa2f7" alt="C++" />
+      <img src="https://img.shields.io/badge/OOP-1a1b27?style=flat-square" alt="OOP" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏛️ <b>Government Website</b></h3>
+      <p>Replicated a government portal's UI and backend functionality</p>
+      <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=7aa2f7" alt="Python" />
+      <img src="https://img.shields.io/badge/Web%20Dev-1a1b27?style=flat-square" alt="Web Dev" />
+    </td>
+  </tr>
+</table>
 
-<p align="center"><i>Coming soon.</i></p>
+<p align="center"><sub>More projects on the way — currently building <b>ELENCHUS</b> 🧠</sub></p>
 
 ---
 
