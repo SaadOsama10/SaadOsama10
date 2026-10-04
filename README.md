@@ -52,6 +52,17 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h3>🛍️ <a href="https://github.com/SaadOsama10/hattah-store"><b>HATTAH — Palestinian Heritage Store</b></a></h3>
+      <p>My live, real business: an Istanbul-based Palestinian heritage shop — Arabic/English/Turkish (RTL) storefront with WhatsApp ordering and an admin panel, backed by Supabase RLS</p>
+      <img src="https://img.shields.io/badge/Next.js-1a1b27?style=flat-square&logo=nextdotjs&logoColor=7aa2f7" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=flat-square&logo=typescript&logoColor=7aa2f7" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Supabase-1a1b27?style=flat-square&logo=supabase&logoColor=7aa2f7" alt="Supabase" />
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-1a1b27?style=flat-square&logo=tailwindcss&logoColor=7aa2f7" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Vercel-1a1b27?style=flat-square&logo=vercel&logoColor=7aa2f7" alt="Vercel" />
+      <br/><br/><a href="https://github.com/SaadOsama10/hattah-store"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
+      <a href="https://hattah-store.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-bb9af7?style=flat-square&logo=vercel&logoColor=1a1b27" alt="Live Demo" /></a>
+    </td>
+    <td width="50%" valign="top">
       <h3>🎲 <a href="https://github.com/SaadOsama10/backgammon-network-project"><b>Multiplayer Backgammon Game</b></a></h3>
       <p>Full GUI backgammon with client–server TCP networking, deployed on AWS</p>
       <img src="https://img.shields.io/badge/Java-1a1b27?style=flat-square&logo=openjdk&logoColor=7aa2f7" alt="Java" />
@@ -60,6 +71,8 @@
       <img src="https://img.shields.io/badge/NetBeans-1a1b27?style=flat-square" alt="NetBeans" />
       <br/><br/><a href="https://github.com/SaadOsama10/backgammon-network-project"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🥗 <a href="https://github.com/SaadOsama10/diet-optimization"><b>Multi-Objective Diet Optimization (MODP)</b></a></h3>
       <p>Recommends daily menus from 405 food items, solved with NSGA-II (compared against SPEA2) to produce a Pareto front of preference / cost / time trade-offs</p>
@@ -70,8 +83,6 @@
       <img src="https://img.shields.io/badge/MySQL-1a1b27?style=flat-square&logo=mysql&logoColor=7aa2f7" alt="MySQL" />
       <br/><br/><a href="https://github.com/SaadOsama10/diet-optimization"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>📰 <a href="https://github.com/SaadOsama10/news-bias-detection"><b>Bias Detection in News Articles</b></a></h3>
       <p>ML pipeline detecting political/ideological bias in news text using NLP feature extraction</p>
@@ -80,6 +91,8 @@
       <img src="https://img.shields.io/badge/NLP-1a1b27?style=flat-square" alt="NLP" />
       <br/><br/><a href="https://github.com/SaadOsama10/news-bias-detection"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>📱 <a href="https://github.com/SaadOsama10/phone-usage-stats"><b>Phone Usage Statistics Dashboard</b></a></h3>
       <p>PyQt5 dashboard for descriptive statistics, confidence intervals, t/z tests and IQR outlier detection on any selectable column of a 700-user phone-usage dataset</p>
@@ -88,8 +101,6 @@
       <img src="https://img.shields.io/badge/Statistics-1a1b27?style=flat-square" alt="Statistics" />
       <br/><br/><a href="https://github.com/SaadOsama10/phone-usage-stats"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🏥 <a href="https://github.com/SaadOsama10/smart-hospital-testing"><b>Smart Hospital — SW Verification &amp; Testing</b></a></h3>
       <p>88 system-level tests — Selenium-automated functional, JMeter performance, OWASP ZAP security and usability testing (93.2% pass)</p>
@@ -100,6 +111,8 @@
       <img src="https://img.shields.io/badge/QA-1a1b27?style=flat-square" alt="QA" />
       <br/><br/><a href="https://github.com/SaadOsama10/smart-hospital-testing"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🎓 <a href="https://github.com/SaadOsama10/student-registration-system"><b>Student Registration System</b></a></h3>
       <p>Desktop student information system with admin, instructor and student roles: course registration, approvals, grading and payments</p>
@@ -108,8 +121,6 @@
       <img src="https://img.shields.io/badge/SQLite-1a1b27?style=flat-square&logo=sqlite&logoColor=7aa2f7" alt="SQLite" />
       <br/><br/><a href="https://github.com/SaadOsama10/student-registration-system"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🗺️ <a href="https://github.com/SaadOsama10/treasure-hunt-game"><b>Treasure Hunt Adventure Game</b></a></h3>
       <p>2-level dice-roll treasure board game built on custom linked lists, with a binary-search-tree scoreboard</p>
@@ -118,6 +129,8 @@
       <img src="https://img.shields.io/badge/Data%20Structures-1a1b27?style=flat-square" alt="Data Structures" />
       <br/><br/><a href="https://github.com/SaadOsama10/treasure-hunt-game"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>⚔️ <a href="https://github.com/SaadOsama10/bokemon-battle-game"><b>Bokemon — Turn-Based Battle Game</b></a></h3>
       <p>Terminal Pokémon-style battle game in C: two-player, six-Pokémon teams, type-effectiveness damage, data loaded from 1,000+ Pokémon and 486 moves</p>
@@ -125,8 +138,6 @@
       <img src="https://img.shields.io/badge/CLI-1a1b27?style=flat-square" alt="CLI" />
       <br/><br/><a href="https://github.com/SaadOsama10/bokemon-battle-game"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🏛️ <a href="https://github.com/SaadOsama10/municipal-services-tracking"><b>Municipal Services Tracking System</b></a></h3>
       <p>Desktop app for citizens and municipal staff: utility subscriptions, billing, service requests, complaints and suggestions</p>
@@ -135,6 +146,8 @@
       <img src="https://img.shields.io/badge/SQLite-1a1b27?style=flat-square&logo=sqlite&logoColor=7aa2f7" alt="SQLite" />
       <br/><br/><a href="https://github.com/SaadOsama10/municipal-services-tracking"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🤿 <a href="https://github.com/SaadOsama10/kmakimo-treasure-dive"><b>KmaKimo — Treasure Dive</b></a></h3>
       <p>Arabic (RTL) underwater arcade game: manage oxygen, catch fish, dodge sea monsters, shop for upgrades and race a friend online with room codes — <a href="https://saadosama10.github.io/kmakimo-treasure-dive/">play it in the browser</a></p>
@@ -144,9 +157,7 @@
       <img src="https://img.shields.io/badge/Web%20Audio-1a1b27?style=flat-square" alt="Web Audio" />
       <br/><br/><a href="https://github.com/SaadOsama10/kmakimo-treasure-dive"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
+    <td width="50%" valign="top">
       <h3>📰 <a href="https://github.com/SaadOsama10/mem-publisher"><b>MEM Publisher</b></a></h3>
       <p>AI-powered Arabic news publishing pipeline for 12 WordPress sites — Telegram bot, GPT-4o-mini rewriting and Selenium publishing</p>
       <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=7aa2f7" alt="Python" />
