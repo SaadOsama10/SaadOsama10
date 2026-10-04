@@ -62,10 +62,11 @@
     </td>
     <td width="50%" valign="top">
       <h3>🥗 <a href="https://github.com/SaadOsama10/diet-optimization"><b>Multi-Objective Diet Optimization (MODP)</b></a></h3>
-      <p>Recommends daily menus from 405 food items, modelled as MOMKP and solved with NSGA-II to produce a Pareto front of optimal menus</p>
+      <p>Recommends daily menus from 405 food items, solved with NSGA-II (compared against SPEA2) to produce a Pareto front of preference / cost / time trade-offs</p>
       <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=7aa2f7" alt="Python" />
       <img src="https://img.shields.io/badge/NSGA--II-1a1b27?style=flat-square" alt="NSGA-II" />
       <img src="https://img.shields.io/badge/pymoo-1a1b27?style=flat-square" alt="pymoo" />
+      <img src="https://img.shields.io/badge/SQLite-1a1b27?style=flat-square&logo=sqlite&logoColor=7aa2f7" alt="SQLite" />
       <img src="https://img.shields.io/badge/MySQL-1a1b27?style=flat-square&logo=mysql&logoColor=7aa2f7" alt="MySQL" />
       <br/><br/><a href="https://github.com/SaadOsama10/diet-optimization"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
     </td>
