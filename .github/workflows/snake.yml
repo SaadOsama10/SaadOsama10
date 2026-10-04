@@ -1,0 +1,53 @@
+name: Generate snake animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # daily at 00:00 UTC
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # Contribution activity card (self-hosted; replaces the defunct
+      # github-readme-activity-graph.vercel.app service).
+      - name: Generate contribution activity card
+        uses: vn7n24fzkq/github-profile-summary-cards@v0.12.0
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: tokyonight
+          AUTO_PUSH: false
+          UTC_OFFSET: 3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Collect activity card
+        run: cp profile-summary-card-output/tokyonight/0-profile-details.svg dist/activity-graph.svg
+
+      - name: Push SVGs to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
