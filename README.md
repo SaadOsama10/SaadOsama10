@@ -125,10 +125,11 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚔️ <b>Bokemon — Turn-Based Battle Game</b></h3>
-      <p>Pokémon-inspired battle game built with full OOP design patterns</p>
-      <img src="https://img.shields.io/badge/C%2B%2B-1a1b27?style=flat-square&logo=cplusplus&logoColor=7aa2f7" alt="C++" />
-      <img src="https://img.shields.io/badge/OOP-1a1b27?style=flat-square" alt="OOP" />
+      <h3>⚔️ <a href="https://github.com/SaadOsama10/bokemon-battle-game"><b>Bokemon — Turn-Based Battle Game</b></a></h3>
+      <p>Terminal Pokémon-style battle game in C: two-player, six-Pokémon teams, type-effectiveness damage, data loaded from 1,000+ Pokémon and 486 moves</p>
+      <img src="https://img.shields.io/badge/C-1a1b27?style=flat-square&logo=c&logoColor=7aa2f7" alt="C" />
+      <img src="https://img.shields.io/badge/CLI-1a1b27?style=flat-square" alt="CLI" />
+      <br/><br/><a href="https://github.com/SaadOsama10/bokemon-battle-game"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🏛️ <b>Government Website</b></h3>
