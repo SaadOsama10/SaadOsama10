@@ -90,7 +90,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🏥 <a href="https://github.com/SaadOsama10/smart-hospital-testing"><b>Smart Hospital — SW Verification &amp; Testing</b></a></h3>
-      <p>Systematic verification &amp; testing of a smart hospital web system: unit, integration and system tests</p>
+      <p>88 system-level tests — Selenium-automated functional, JMeter performance, OWASP ZAP security and usability testing (93.2% pass)</p>
       <img src="https://img.shields.io/badge/Java-1a1b27?style=flat-square&logo=openjdk&logoColor=7aa2f7" alt="Java" />
       <img src="https://img.shields.io/badge/Selenium-1a1b27?style=flat-square&logo=selenium&logoColor=7aa2f7" alt="Selenium" />
       <img src="https://img.shields.io/badge/JMeter-1a1b27?style=flat-square&logo=apachejmeter&logoColor=7aa2f7" alt="JMeter" />
