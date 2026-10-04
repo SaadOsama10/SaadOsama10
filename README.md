@@ -145,6 +145,19 @@
       <br/><br/><a href="https://github.com/SaadOsama10/kmakimo-treasure-dive"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <h3>📰 <a href="https://github.com/SaadOsama10/mem-publisher-showcase"><b>MEM Publisher</b></a></h3>
+      <p>AI-powered Arabic news publishing pipeline for 12 WordPress sites — Telegram bot, GPT-4o-mini rewriting and Selenium publishing</p>
+      <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=7aa2f7" alt="Python" />
+      <img src="https://img.shields.io/badge/Selenium-1a1b27?style=flat-square&logo=selenium&logoColor=7aa2f7" alt="Selenium" />
+      <img src="https://img.shields.io/badge/OpenAI-1a1b27?style=flat-square&logo=openai&logoColor=7aa2f7" alt="OpenAI" />
+      <img src="https://img.shields.io/badge/Telegram%20Bot-1a1b27?style=flat-square&logo=telegram&logoColor=7aa2f7" alt="Telegram Bot" />
+      <img src="https://img.shields.io/badge/WordPress-1a1b27?style=flat-square&logo=wordpress&logoColor=7aa2f7" alt="WordPress" />
+      <img src="https://img.shields.io/badge/DigitalOcean-1a1b27?style=flat-square&logo=digitalocean&logoColor=7aa2f7" alt="DigitalOcean" />
+      <br/><br/><a href="https://github.com/SaadOsama10/mem-publisher-showcase"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
+    </td>
+  </tr>
 </table>
 
 <p align="center"><sub>More projects on the way — currently building <b>ELENCHUS</b> 🧠</sub></p>
