@@ -72,11 +72,12 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📰 <b>Bias Detection in News Articles</b></h3>
+      <h3>📰 <a href="https://github.com/SaadOsama10/news-bias-detection"><b>Bias Detection in News Articles</b></a></h3>
       <p>ML pipeline detecting political/ideological bias in news text using NLP feature extraction</p>
       <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=7aa2f7" alt="Python" />
       <img src="https://img.shields.io/badge/Machine%20Learning-1a1b27?style=flat-square" alt="Machine Learning" />
       <img src="https://img.shields.io/badge/NLP-1a1b27?style=flat-square" alt="NLP" />
+      <br/><br/><a href="https://github.com/SaadOsama10/news-bias-detection"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>📱 <b>Phone Use State Detector</b></h3>
