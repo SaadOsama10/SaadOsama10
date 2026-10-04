@@ -89,11 +89,14 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 <b>Smart Hospital — SW Verification &amp; Testing</b></h3>
+      <h3>🏥 <a href="https://github.com/SaadOsama10/smart-hospital-testing"><b>Smart Hospital — SW Verification &amp; Testing</b></a></h3>
       <p>Systematic verification &amp; testing of a smart hospital web system: unit, integration and system tests</p>
-      <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=7aa2f7" alt="Python" />
+      <img src="https://img.shields.io/badge/Java-1a1b27?style=flat-square&logo=openjdk&logoColor=7aa2f7" alt="Java" />
+      <img src="https://img.shields.io/badge/Selenium-1a1b27?style=flat-square&logo=selenium&logoColor=7aa2f7" alt="Selenium" />
+      <img src="https://img.shields.io/badge/JMeter-1a1b27?style=flat-square&logo=apachejmeter&logoColor=7aa2f7" alt="JMeter" />
+      <img src="https://img.shields.io/badge/OWASP%20ZAP-1a1b27?style=flat-square" alt="OWASP ZAP" />
       <img src="https://img.shields.io/badge/QA-1a1b27?style=flat-square" alt="QA" />
-      <img src="https://img.shields.io/badge/Testing-1a1b27?style=flat-square" alt="Testing" />
+      <br/><br/><a href="https://github.com/SaadOsama10/smart-hospital-testing"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🎓 <b>OBS University Portal</b></h3>
