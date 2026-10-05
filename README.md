@@ -128,6 +128,7 @@
       <img src="https://img.shields.io/badge/Machine%20Learning-1a1b27?style=flat-square" alt="Machine Learning" />
       <img src="https://img.shields.io/badge/NLP-1a1b27?style=flat-square" alt="NLP" />
       <br/><br/><a href="https://github.com/SaadOsama10/news-bias-detection"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
+      <a href="https://saadosama10.github.io/news-bias-detection/demo/"><img src="https://img.shields.io/badge/Live_Demo-bb9af7?style=flat-square&logo=python&logoColor=1a1b27" alt="Live Demo" /></a>
     </td>
   </tr>
   <tr>
