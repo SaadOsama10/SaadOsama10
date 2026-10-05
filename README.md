@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/SaadOsama10">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Software+Engineering+%40+FSMVU+%C2%B7+Istanbul;Shipping+a+live+e-commerce+store;AI+publishing+pipelines+for+12+sites;Building+ELENCHUS%3A+Socratic+AI+code+review" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&lines=Software+Engineering+%40+FSMVU+%C2%B7+Istanbul;Shipping+a+live+e-commerce+store;AI+publishing+pipelines+for+12+sites;Porting+.NET+Framework+to+ASP.NET+Core+8;Building+ELENCHUS%3A+Socratic+AI+code+review" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 
 - 🎓 4th-year **Software Engineering** student at **Fatih Sultan Mehmet Vakıf University**, Istanbul
 - 🛠️ I build **full-stack web apps, automation and AI pipelines, ML experiments, desktop apps and games**
-- 🚀 Shipped: **[HATTAH](https://github.com/SaadOsama10/hattah-store)**, a live trilingual (AR/EN/TR) e-commerce store for a real Istanbul business. **[MEM Publisher](https://github.com/SaadOsama10/mem-publisher)**, an AI news-publishing pipeline running in production for 12 WordPress sites. **[KmaKimo](https://github.com/SaadOsama10/kmakimo-treasure-dive)**, a real-time multiplayer browser game
+- 🚀 Shipped: **[HATTAH](https://github.com/SaadOsama10/hattah-store)**, a live trilingual (AR/EN/TR) e-commerce store for a real Istanbul business. **[MEM Publisher](https://github.com/SaadOsama10/mem-publisher)**, an AI news-publishing pipeline running in production for 12 WordPress sites. **[KmaKimo](https://github.com/SaadOsama10/kmakimo-treasure-dive)**, a real-time multiplayer browser game. **[BirFikrimVar](https://github.com/SaadOsama10/BirFikrimVar)**, a moderated idea-sharing platform I ported from ASP.NET MVC 5 to ASP.NET Core 8 (Identity roles, EF Core, PostgreSQL, Docker, English/Arabic RTL)
 - 🔭 Now building **ELENCHUS**, my graduation project: a multi-agent Socratic AI code-review platform for programming education
 - 🌍 Languages: Arabic · English · Turkish
 
@@ -35,6 +35,7 @@
 | 🤖 **AI automation in production** | MEM Publisher turns RSS into reviewed Arabic articles with GPT-4o-mini, then publishes through Selenium (Yoast / Rank Math, Classic / Gutenberg) from a Telegram bot on a DigitalOcean VPS. |
 | 📊 **ML with measured results** | The news-bias classifier reaches **97.12%** accuracy (ROC-AUC 0.995) with a TF-IDF Linear SVM on 5,000 Guardian articles. A 1D CNN reaches 0.94. |
 | 🧪 **QA leadership** | Test Manager for an **88-case** campaign on a Spring Boot + React system: 58 Selenium-automated functional tests, JMeter load tests and OWASP ZAP. 93.2% pass rate, 4 defects logged. |
+| 🧱 **.NET full-stack port** | BirFikrimVar moves an ASP.NET MVC 5 app to ASP.NET Core 8 with Identity, EF Core and PostgreSQL. It adds an Admin role for post moderation, antiforgery on all writes and content-checked image uploads, and ships as a Docker image with Playwright end-to-end checks. |
 | 🔐 **Security fixes** | In two course projects I hardened, I replaced string-built SQL with parameterized queries and added PBKDF2-HMAC-SHA256 hashing (600k iterations). |
 | 📐 **Fundamentals** | Student's t distribution implemented by hand (no NumPy or SciPy), checked against Python's `statistics` module in 137/137 checks. TCP backgammon with a multithreaded server on AWS EC2. |
 
@@ -43,7 +44,7 @@
 ## 🧰 Tech Stack
 
 <p align="center"><sub><b>Languages</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=java,py,c,js,ts,html,css&theme=dark" alt="java,py,c,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,py,c,cs,js,ts,html,css&theme=dark" alt="java,py,c,cs,js,ts,html,css" />
 </p>
 
 <p align="center"><sub><b>Frontend</b></sub><br/>
@@ -53,9 +54,9 @@
 </p>
 
 <p align="center"><sub><b>Backend &amp; Data</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,sqlite,firebase,wordpress&theme=dark" alt="supabase,postgres,mysql,sqlite,firebase,wordpress" />
+  <img src="https://skillicons.dev/icons?i=dotnet,supabase,postgres,mysql,sqlite,firebase,wordpress&theme=dark" alt="dotnet,supabase,postgres,mysql,sqlite,firebase,wordpress" />
   <br/>
-  <img src="https://img.shields.io/badge/Telegram_Bot-1a1b27?style=flat-square&logo=telegram&logoColor=7aa2f7" alt="Telegram Bot" /> <img src="https://img.shields.io/badge/TCP_Sockets-1a1b27?style=flat-square" alt="TCP Sockets" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-1a1b27?style=flat-square&logo=dotnet&logoColor=7aa2f7" alt="ASP.NET Core" /> <img src="https://img.shields.io/badge/Entity_Framework-1a1b27?style=flat-square" alt="Entity Framework" /> <img src="https://img.shields.io/badge/SQL_Server-1a1b27?style=flat-square&logo=microsoftsqlserver&logoColor=7aa2f7" alt="SQL Server" /> <img src="https://img.shields.io/badge/Telegram_Bot-1a1b27?style=flat-square&logo=telegram&logoColor=7aa2f7" alt="Telegram Bot" /> <img src="https://img.shields.io/badge/TCP_Sockets-1a1b27?style=flat-square" alt="TCP Sockets" />
 </p>
 
 <p align="center"><sub><b>AI &amp; ML</b></sub><br/>
@@ -71,7 +72,7 @@
 </p>
 
 <p align="center"><sub><b>Cloud &amp; DevOps</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=aws,vercel,linux&theme=dark" alt="aws,vercel,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,vercel,docker,linux&theme=dark" alt="aws,vercel,docker,linux" />
   <br/>
   <img src="https://img.shields.io/badge/DigitalOcean-1a1b27?style=flat-square&logo=digitalocean&logoColor=7aa2f7" alt="DigitalOcean" />
 </p>
@@ -205,6 +206,18 @@
       <img src="https://img.shields.io/badge/WordPress-1a1b27?style=flat-square&logo=wordpress&logoColor=7aa2f7" alt="WordPress" />
       <img src="https://img.shields.io/badge/DigitalOcean-1a1b27?style=flat-square&logo=digitalocean&logoColor=7aa2f7" alt="DigitalOcean" />
       <br/><br/><a href="https://github.com/SaadOsama10/mem-publisher"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top">
+      <h3>💡 <a href="https://github.com/SaadOsama10/BirFikrimVar"><b>BirFikrimVar — Student Idea-Sharing Platform</b></a></h3>
+      <p>Moderated idea-sharing site: multi-section posts with images, an Admin review queue, likes, saved posts and feedback, in English and Arabic (RTL). Ported from ASP.NET MVC 5 to ASP.NET Core 8; run it with one <code>docker compose up</code></p>
+      <img src="https://img.shields.io/badge/C%23-1a1b27?style=flat-square&logo=csharp&logoColor=7aa2f7" alt="C#" />
+      <img src="https://img.shields.io/badge/ASP.NET%20Core-1a1b27?style=flat-square&logo=dotnet&logoColor=7aa2f7" alt="ASP.NET Core" />
+      <img src="https://img.shields.io/badge/EF%20Core-1a1b27?style=flat-square" alt="EF Core" />
+      <img src="https://img.shields.io/badge/PostgreSQL-1a1b27?style=flat-square&logo=postgresql&logoColor=7aa2f7" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Docker-1a1b27?style=flat-square&logo=docker&logoColor=7aa2f7" alt="Docker" />
+      <br/><br/><a href="https://github.com/SaadOsama10/BirFikrimVar"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
     </td>
   </tr>
 </table>
