@@ -33,7 +33,7 @@
 |---|---|
 | 🛍️ **Production full-stack** | HATTAH runs on Next.js 15 + Supabase + Vercel. RLS is on every table, writes are server-only, admin routes are checked in middleware and again in each Server Action, and login is rate-limited to 5 failures per IP per 15 minutes. |
 | 🤖 **AI automation in production** | MEM Publisher turns RSS into reviewed Arabic articles with GPT-4o-mini, then publishes through Selenium (Yoast / Rank Math, Classic / Gutenberg) from a Telegram bot on a DigitalOcean VPS. |
-| 📊 **ML with measured results** | The news-bias classifier reaches **97.12%** accuracy (ROC-AUC 0.995) with a TF-IDF Linear SVM on 5,000 Guardian articles. A 1D CNN reaches 0.94. |
+| 📊 **ML with measured results** | The news opinion-vs-reporting classifier reaches **97.12%** accuracy (ROC-AUC 0.995) with a TF-IDF Linear SVM on 5,000 Guardian articles. A 1D CNN reaches 0.94. |
 | 🧪 **QA leadership** | Test Manager for an **88-case** campaign on a Spring Boot + React system: 58 Selenium-automated functional tests, JMeter load tests and OWASP ZAP. 93.2% pass rate, 4 defects logged. |
 | 🧱 **.NET full-stack port** | BirFikrimVar moves an ASP.NET MVC 5 app to ASP.NET Core 8 with Identity, EF Core and PostgreSQL. It adds an Admin role for post moderation, antiforgery on all writes and content-checked image uploads, and ships as a Docker image with Playwright end-to-end checks. |
 | 🔐 **Security fixes** | In two course projects I hardened, I replaced string-built SQL with parameterized queries and added PBKDF2-HMAC-SHA256 hashing (600k iterations). |
@@ -123,7 +123,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>📰 <a href="https://github.com/SaadOsama10/news-bias-detection"><b>Bias Detection in News Articles</b></a></h3>
-      <p>ML pipeline detecting political/ideological bias in news text using NLP feature extraction</p>
+      <p>Classifies news text as opinion-style (biased) vs news-style (neutral) writing — TF-IDF + Linear SVM, 97.12% accuracy, runs fully in the browser</p>
       <img src="https://img.shields.io/badge/Python-1a1b27?style=flat-square&logo=python&logoColor=7aa2f7" alt="Python" />
       <img src="https://img.shields.io/badge/Machine%20Learning-1a1b27?style=flat-square" alt="Machine Learning" />
       <img src="https://img.shields.io/badge/NLP-1a1b27?style=flat-square" alt="NLP" />
