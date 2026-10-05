@@ -161,11 +161,12 @@
     </td>
     <td width="50%" valign="top">
       <h3>🗺️ <a href="https://github.com/SaadOsama10/treasure-hunt-game"><b>Treasure Hunt Adventure Game</b></a></h3>
-      <p>2-level dice-roll treasure board game built on custom linked lists, with a binary-search-tree scoreboard</p>
+      <p>2-level dice-roll treasure board game built on custom linked lists, with a binary-search-tree scoreboard — <a href="https://saadosama10.github.io/treasure-hunt-game/play/">play it in the browser</a></p>
       <img src="https://img.shields.io/badge/Java-1a1b27?style=flat-square&logo=openjdk&logoColor=7aa2f7" alt="Java" />
       <img src="https://img.shields.io/badge/Swing-1a1b27?style=flat-square" alt="Swing" />
       <img src="https://img.shields.io/badge/Data%20Structures-1a1b27?style=flat-square" alt="Data Structures" />
       <br/><br/><a href="https://github.com/SaadOsama10/treasure-hunt-game"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
+      <a href="https://saadosama10.github.io/treasure-hunt-game/play/"><img src="https://img.shields.io/badge/Live_Demo-bb9af7?style=flat-square&logo=java&logoColor=1a1b27" alt="Live Demo" /></a>
     </td>
   </tr>
   <tr>
