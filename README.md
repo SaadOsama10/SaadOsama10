@@ -139,6 +139,7 @@
       <img src="https://img.shields.io/badge/PyQt5-1a1b27?style=flat-square&logo=qt&logoColor=7aa2f7" alt="PyQt5" />
       <img src="https://img.shields.io/badge/Statistics-1a1b27?style=flat-square" alt="Statistics" />
       <br/><br/><a href="https://github.com/SaadOsama10/phone-usage-stats"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
+      <a href="https://saadosama10.github.io/phone-usage-stats/demo/"><img src="https://img.shields.io/badge/Live_Demo-bb9af7?style=flat-square&logo=python&logoColor=1a1b27" alt="Live Demo" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🏥 <a href="https://github.com/SaadOsama10/smart-hospital-testing"><b>Smart Hospital — SW Verification &amp; Testing</b></a></h3>
