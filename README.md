@@ -121,6 +121,7 @@
       <img src="https://img.shields.io/badge/SQLite-1a1b27?style=flat-square&logo=sqlite&logoColor=7aa2f7" alt="SQLite" />
       <img src="https://img.shields.io/badge/MySQL-1a1b27?style=flat-square&logo=mysql&logoColor=7aa2f7" alt="MySQL" />
       <br/><br/><a href="https://github.com/SaadOsama10/diet-optimization"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
+      <a href="https://saadosama10.github.io/diet-optimization/demo/"><img src="https://img.shields.io/badge/Live_Demo-bb9af7?style=flat-square&logo=python&logoColor=1a1b27" alt="Live Demo" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>📰 <a href="https://github.com/SaadOsama10/news-bias-detection"><b>Bias Detection in News Articles</b></a></h3>
