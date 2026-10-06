@@ -102,12 +102,13 @@
     </td>
     <td width="50%" valign="top">
       <h3>🎲 <a href="https://github.com/SaadOsama10/backgammon-network-project"><b>Multiplayer Backgammon Game</b></a></h3>
-      <p>Full GUI backgammon with client–server TCP networking, deployed on AWS</p>
+      <p>Full GUI backgammon with client–server TCP networking, deployed on AWS — <a href="https://saadosama10.github.io/backgammon-network-project/play/">play local 2-player in the browser</a></p>
       <img src="https://img.shields.io/badge/Java-1a1b27?style=flat-square&logo=openjdk&logoColor=7aa2f7" alt="Java" />
       <img src="https://img.shields.io/badge/AWS-1a1b27?style=flat-square" alt="AWS" />
       <img src="https://img.shields.io/badge/TCP%20Networking-1a1b27?style=flat-square" alt="TCP Networking" />
       <img src="https://img.shields.io/badge/NetBeans-1a1b27?style=flat-square" alt="NetBeans" />
       <br/><br/><a href="https://github.com/SaadOsama10/backgammon-network-project"><img src="https://img.shields.io/badge/View_Repo-7aa2f7?style=flat-square&logo=github&logoColor=1a1b27" alt="View Repo" /></a>
+      <a href="https://saadosama10.github.io/backgammon-network-project/play/"><img src="https://img.shields.io/badge/Live_Demo-bb9af7?style=flat-square&logo=java&logoColor=1a1b27" alt="Live Demo" /></a>
     </td>
   </tr>
   <tr>
