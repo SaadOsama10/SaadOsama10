@@ -41,50 +41,6 @@
 
 ---
 
-## 🧰 Tech Stack
-
-<p align="center"><sub><b>Languages</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=java,py,c,cs,js,ts,html,css&theme=dark" alt="java,py,c,cs,js,ts,html,css" />
-</p>
-
-<p align="center"><sub><b>Frontend</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" alt="react,nextjs,tailwind" />
-  <br/>
-  <img src="https://img.shields.io/badge/Framer_Motion-1a1b27?style=flat-square" alt="Framer Motion" /> <img src="https://img.shields.io/badge/next--intl-1a1b27?style=flat-square" alt="next-intl" /> <img src="https://img.shields.io/badge/PyQt5-1a1b27?style=flat-square&logo=qt&logoColor=7aa2f7" alt="PyQt5" /> <img src="https://img.shields.io/badge/Java_Swing-1a1b27?style=flat-square" alt="Java Swing" />
-</p>
-
-<p align="center"><sub><b>Backend &amp; Data</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=dotnet,supabase,postgres,mysql,sqlite,firebase,wordpress&theme=dark" alt="dotnet,supabase,postgres,mysql,sqlite,firebase,wordpress" />
-  <br/>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-1a1b27?style=flat-square&logo=dotnet&logoColor=7aa2f7" alt="ASP.NET Core" /> <img src="https://img.shields.io/badge/Entity_Framework-1a1b27?style=flat-square" alt="Entity Framework" /> <img src="https://img.shields.io/badge/SQL_Server-1a1b27?style=flat-square&logo=microsoftsqlserver&logoColor=7aa2f7" alt="SQL Server" /> <img src="https://img.shields.io/badge/Telegram_Bot-1a1b27?style=flat-square&logo=telegram&logoColor=7aa2f7" alt="Telegram Bot" /> <img src="https://img.shields.io/badge/TCP_Sockets-1a1b27?style=flat-square" alt="TCP Sockets" />
-</p>
-
-<p align="center"><sub><b>AI &amp; ML</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=dark" alt="tensorflow,sklearn" />
-  <br/>
-  <img src="https://img.shields.io/badge/OpenAI_GPT--4o--mini-1a1b27?style=flat-square" alt="OpenAI GPT-4o-mini" /> <img src="https://img.shields.io/badge/Keras-1a1b27?style=flat-square&logo=keras&logoColor=7aa2f7" alt="Keras" /> <img src="https://img.shields.io/badge/pandas-1a1b27?style=flat-square&logo=pandas&logoColor=7aa2f7" alt="pandas" /> <img src="https://img.shields.io/badge/pymoo_%28NSGA--II_%2F_SPEA2%29-1a1b27?style=flat-square" alt="pymoo (NSGA-II / SPEA2)" />
-</p>
-
-<p align="center"><sub><b>Testing &amp; QA</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=selenium&theme=dark" alt="selenium" />
-  <br/>
-  <img src="https://img.shields.io/badge/Apache_JMeter-1a1b27?style=flat-square&logo=apachejmeter&logoColor=7aa2f7" alt="Apache JMeter" /> <img src="https://img.shields.io/badge/OWASP_ZAP-1a1b27?style=flat-square" alt="OWASP ZAP" /> <img src="https://img.shields.io/badge/Playwright-1a1b27?style=flat-square" alt="Playwright" />
-</p>
-
-<p align="center"><sub><b>Cloud &amp; DevOps</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=aws,vercel,docker,linux&theme=dark" alt="aws,vercel,docker,linux" />
-  <br/>
-  <img src="https://img.shields.io/badge/DigitalOcean-1a1b27?style=flat-square&logo=digitalocean&logoColor=7aa2f7" alt="DigitalOcean" />
-</p>
-
-<p align="center"><sub><b>Tools</b></sub><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,idea&theme=dark" alt="git,github,idea" />
-  <br/>
-  <img src="https://img.shields.io/badge/NetBeans-1a1b27?style=flat-square&logo=apachenetbeanside&logoColor=7aa2f7" alt="NetBeans" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 <table>
@@ -228,23 +184,6 @@
 </table>
 
 <p align="center"><sub>More projects on the way — currently building <b>ELENCHUS</b> 🧠</sub></p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SaadOsama10&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaadOsama10&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SaadOsama10&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/SaadOsama10/SaadOsama10/output/activity-graph.svg" alt="Contribution activity graph" />
-</p>
 
 ---
 
